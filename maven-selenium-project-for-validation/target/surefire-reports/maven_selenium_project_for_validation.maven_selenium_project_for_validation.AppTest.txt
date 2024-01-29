@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: maven_selenium_project_for_validation.maven_selenium_project_for_validation.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 s -- in maven_selenium_project_for_validation.maven_selenium_project_for_validation.AppTest

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-29T20:33:36 IST" name="Suite" finished-at="2024-01-29T20:33:56 IST" duration-ms="20753">
+    <groups>
+    </groups>
+    <test started-at="2024-01-29T20:33:36 IST" name="Test" finished-at="2024-01-29T20:33:56 IST" duration-ms="20753">
+      <class name="pizzahut.com.pizzahut.pizzahut001">
+        <test-method is-config="true" signature="test1()[pri:0, instance:pizzahut.com.pizzahut.pizzahut001@7ec58feb]" started-at="2024-01-29T20:33:36 IST" name="test1" finished-at="2024-01-29T20:33:36 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pizzahut.com.pizzahut.pizzahut001@7ec58feb]" started-at="2024-01-29T20:33:36 IST" name="setUp" finished-at="2024-01-29T20:33:39 IST" duration-ms="3584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCases()[pri:0, instance:pizzahut.com.pizzahut.pizzahut001@7ec58feb]" started-at="2024-01-29T20:33:39 IST" name="testCases" finished-at="2024-01-29T20:33:56 IST" duration-ms="16404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCases -->
+        <test-method is-config="true" signature="closeBrower()[pri:0, instance:pizzahut.com.pizzahut.pizzahut001@7ec58feb]" started-at="2024-01-29T20:33:56 IST" name="closeBrower" finished-at="2024-01-29T20:33:56 IST" duration-ms="636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrower -->
+        <test-method is-config="true" signature="closeDrive()[pri:0, instance:pizzahut.com.pizzahut.pizzahut001@7ec58feb]" started-at="2024-01-29T20:33:56 IST" name="closeDrive" finished-at="2024-01-29T20:33:57 IST" duration-ms="862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDrive -->
+      </class> <!-- pizzahut.com.pizzahut.pizzahut001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

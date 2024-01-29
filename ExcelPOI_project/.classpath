@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/phaldar/Documents/apt2-functional-testing/ExcelPOI_project/jarFiles/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/phaldar/Documents/apt2-functional-testing/ExcelPOI_project/jarFiles/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/phaldar/Documents/apt2-functional-testing/ExcelPOI_project/jarFiles/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/phaldar/Documents/apt2-functional-testing/ExcelPOI_project/jarFiles/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/phaldar/Documents/apt2-functional-testing/ExcelPOI_project/jarFiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
